@@ -1,0 +1,1 @@
+{"version":3,"sources":["HistoryPage.css"],"names":[],"mappings":"AAAA,gCAEE,kBAAoB,CACpB,wBACF,CAEA,+BACE,eACF","file":"15.5be1cb5a.chunk.css","sourcesContent":[".HistoryPage td,\r\n.HistoryPage th {\r\n  padding: 0.5rem 1rem;\r\n  border: 1px solid #0e1111;\r\n}\r\n\r\n.HistoryPage tr:nth-child(odd) {\r\n  background: #ccc;\r\n}\r\n"]}
